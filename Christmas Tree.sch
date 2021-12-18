@@ -4178,9 +4178,9 @@ Actual size 12 x 20.25</description>
 <instance part="GND12" gate="G$1" x="109.22" y="17.78" smashed="yes">
 <attribute name="VALUE" x="109.22" y="16.002" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="U1" gate="B" x="378.46" y="251.46" smashed="yes" rot="R180">
-<attribute name="NAME" x="383.8194" y="242.3414" size="2.0828" layer="95" ratio="6" rot="SR180"/>
-<attribute name="VALUE" x="382.2446" y="244.8814" size="2.0828" layer="96" ratio="6" rot="SR180"/>
+<instance part="U1" gate="B" x="378.46" y="228.6" smashed="yes" rot="R180">
+<attribute name="NAME" x="383.8194" y="219.4814" size="2.0828" layer="95" ratio="6" rot="SR180"/>
+<attribute name="VALUE" x="382.2446" y="222.0214" size="2.0828" layer="96" ratio="6" rot="SR180"/>
 </instance>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
 <instance part="FRAME1" gate="G$2" x="393.7" y="0" smashed="yes">
@@ -4568,8 +4568,8 @@ Actual size 12 x 20.25</description>
 </segment>
 <segment>
 <pinref part="U1" gate="B" pin="(PCINT5/RESET!/ADC0/DW)_PB5"/>
-<wire x1="408.94" y1="251.46" x2="414.02" y2="251.46" width="0.1524" layer="91"/>
-<label x="414.02" y="251.46" size="1.778" layer="95"/>
+<wire x1="408.94" y1="228.6" x2="416.56" y2="228.6" width="0.1524" layer="91"/>
+<label x="419.1" y="228.6" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
